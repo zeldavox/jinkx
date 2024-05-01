@@ -1,19 +1,17 @@
-body {
+body{
   color: red;
   font-family: Poppins, san serif;
   font-size: 18 px;
 }
 
-p {
+p{
+  color: black;
   background-image: url('Alec+White+Photo_Hera_01.jpg');
   background-repeat: no-repeat;
 }
 
-p {
-  color: black; 
-}
 
-h1 { 
+h1{ 
   color: red;
   font-family: "Abril Fatface", 
   font-size: 40 px ;

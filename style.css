@@ -2,11 +2,7 @@ body{
   color: red;
   font-family: Poppins, san serif;
   font-size: 18 px;
-}
-
-p{
-  color: black;
-  background-image: url('Alec+White+Photo_Hera_01.jpg');
+  background-image: url("jinkx.jpg");
   background-repeat: no-repeat;
 }
 

@@ -33,21 +33,7 @@ font-size: 16 px
 padding: 10 px;
 }
 
-div{
-  width: 500 px
-  height: 300 px
-  background-color: green;
-  color: white;
-  padding: 10 plx; 
-}
 
-  
-.topnav {
-  overflow: hidden;
-}
-
-.topnav a {
-  float: left;
   text-align: center;
   padding: 14 px 16 px;
   text-decoration: none;

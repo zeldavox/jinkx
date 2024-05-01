@@ -1,0 +1,28 @@
+font-size: 16 px
+padding: 10 px;
+}
+
+.header-main-nav ul{
+list-style-type: none;
+background-color: gray;
+padding: 0 px
+margin: 0 px
+overflow: hidden;
+}
+
+.header-main-nav a{
+color: white;
+text-decoraton: none;
+padding: 15 px;
+display: block;
+text-align: center;
+}
+
+.header-main-nav a:hover{
+background-color: white;
+}
+
+
+.header-main-nav li{
+float: left;
+}
